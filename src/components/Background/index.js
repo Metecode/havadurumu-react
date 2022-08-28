@@ -1,5 +1,4 @@
 import React from 'react'
-import yagmurlu from "../../img/rainy.jpg"
 import ResimCek from './ResimCek'
 
 function index({background}) {
