@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Live test https://630b5d914e7d963c7bf34e91--jazzy-fox-9d2fd0.netlify.app/ 
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
